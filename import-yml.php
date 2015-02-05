@@ -1,7 +1,7 @@
 <?php 
 /*
  Plugin Name: WP Shop Import YML
- Plugin URI: http://wp-shop.ru/blog/all-plugins/parser-yml/
+ Plugin URI: http://wp-shop.ru/yandex-xml-parser/
  Description: Импорт контента из интернет-магазинов, имеющих Яндекс XML фид, с переносом товаров на вордпресс-магазин и последующей синхронизацией. 
  Author: www.wp-shop.ru
  Version: 0.1

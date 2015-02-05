@@ -22,7 +22,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 1. Upload plugin "WP Shop YML Parser" to the `/wp-content/plugins/` directory
 2. Activate the plugin "WP Shop YML Parser" through the 'Plugins' menu in WordPress
-3. See [full userguide](http://wp-shop.ru/blog/all-plugins/parser-yml/) how to set up your "WP Shop YML Parser"
+3. See [full userguide](http://wp-shop.ru/yandex-xml-parser/) how to set up your "WP Shop YML Parser"
 
 == Frequently asked questions ==
 
