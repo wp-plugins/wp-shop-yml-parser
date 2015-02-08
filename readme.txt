@@ -17,7 +17,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Незаменимый инструмент для:
 1. Переноса магазина с любых других движков на WordPress WP-Shop
 2. Построения партнерских магазинов, для зарабатывания на партнерской комиссии по модели CPS
-[youtube http://www.youtube.com/playlist?list=PLSDnqQFsL1p0PSp8Eqfygu1UpXIHWHUKG]
+[youtube https://www.youtube.com/watch?v=EXQPQZ1SzbA&feature=youtu.be]
 == Installation ==
 
 1. Upload plugin "WP Shop YML Parser" to the `/wp-content/plugins/` directory
